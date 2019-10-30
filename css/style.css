@@ -1,0 +1,24 @@
+body {
+	background: #efefef;
+	font-family: arial;
+	color: #000000;
+}
+h1 {
+	font-size: 50px;
+	color: #800000;
+	font-style: italic;
+}
+a {
+	color: #008000;
+	text-decoration: underline; 
+}
+a:hover{
+	color: #FF00FF;
+	text-decoration: none;
+}
+h2 {
+	font-size: 30px;
+}
+p {
+	font-size: 25px;
+}
